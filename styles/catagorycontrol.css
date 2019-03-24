@@ -1,0 +1,13 @@
+
+img
+{
+    max-width: 100%;
+}
+
+.product_button > div > div
+{
+    width: 36px;
+    height: 36px;
+    margin-top: 4px;
+}
+
